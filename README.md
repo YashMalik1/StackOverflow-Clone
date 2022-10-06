@@ -15,13 +15,6 @@
 - The profile consists of the questions asked by that user and also the questions bookmarked by him.
 - Responsive Design
 
-## Some Screenshots
-
-![Question Display Page](https://raw.githubusercontent.com/akr-25/StackOverflow-Clone/main/screenshots/Screenshot%202021-09-01%20215958.jpg)
-![Searching using Tag](https://raw.githubusercontent.com/akr-25/StackOverflow-Clone/main/screenshots/Screenshot%202021-09-01%20220025.jpg)
-![Question-Answer Display Page](https://raw.githubusercontent.com/akr-25/StackOverflow-Clone/main/screenshots/Screenshot%202021-09-01%20220141.jpg)
-![User Page - Mobile View](https://raw.githubusercontent.com/akr-25/StackOverflow-Clone/main/screenshots/Screenshot%202021-09-01%20220317.jpg)
-
 ## How to run
 
 Create a mongoDB database and add the link to config.env file in the backend.
